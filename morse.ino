@@ -5,7 +5,7 @@ void setup()
 	pinMode(LED_BUILTIN, OUTPUT); // Sets LED_BUILTIN as OUTPUT
 }
 
-String message = "Hello, world!"; // A string to 
+String message = "Hello, world!"; // A string to be morse-ified
 
 void loop()
 {
