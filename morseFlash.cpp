@@ -4,6 +4,8 @@ morseFlash - An arduino library for flashing morse code (ITU ver.)
 
 */
 
+#pragma once
+
 #include "morseFlash.h"
 
 namespace morseFlash
